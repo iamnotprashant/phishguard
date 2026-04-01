@@ -255,7 +255,7 @@ def generate_html_report(
 
 <p class="meta" style="margin-top:2rem;text-align:center">
   PhishGuard v1.0 — Open Source — Defensive Use Only<br>
-  <a href="https://github.com/yourusername/phishguard" style="color:#7b2fff">github.com/phishguard</a>
+  <a href="https://github.com/yourusername/phishguard" style="color:#7b2fff">github.com/iamnotprashant/phishguard</a>
 </p>
 </body>
 </html>"""
